@@ -1,0 +1,10 @@
+
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+
+Machine Learning (ML) is a subset of AI that learns from data.
+
+Deep Learning uses neural networks for complex tasks.
+
+DBMS stands for Database Management System used to manage data.
+
+A database is an organized collection of structured information.
