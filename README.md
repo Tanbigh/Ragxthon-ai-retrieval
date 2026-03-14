@@ -122,9 +122,3 @@ rag_project.ipynb
 
 ---
 
-# Hackathon
-
-This project was developed as part of **RAGxthon 2026**, a hackathon focused on building innovative AI retrieval systems using Retrieval-Augmented Generation.
-
----
-
